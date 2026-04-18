@@ -1,4 +1,4 @@
-# COMP2322 Programming Project
+# COMP2322-Programming-Project
 
 ## Environment Configuration
 - Python 3.6 or higher
